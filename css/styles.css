@@ -584,7 +584,7 @@ img {
 }
 
 .link-card:hover .text-image,
-.portfolio-elements:focus .text-image {
+.link-card:focus .text-image {
   transform: translate(0, 0);
 }
 /*Модальне вікно*/
